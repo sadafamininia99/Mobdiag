@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        MOBDIAG IS LOADING ....🥑
+        MOBDIAG IS LOADING ....🥑🥑🥑🥑
         <p></p>
       </header>
     </div>
